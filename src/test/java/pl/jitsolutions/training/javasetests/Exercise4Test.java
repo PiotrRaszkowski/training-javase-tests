@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * String manipulations.
+ * Simple String manipulations.
  */
 public class Exercise4Test {
 
